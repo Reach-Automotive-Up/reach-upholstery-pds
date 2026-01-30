@@ -31,7 +31,7 @@ const Footer = () => {
               <span className="text-primary">REACH</span> Upholstery PDS
             </Link>
             <p className="text-gray-300 max-w-md">
-              The REACH Upholstery PDS
+              Best In Class Upholstery Pattern Design Software
             </p>
 
 
